@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">NSManaging</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_dashborad">Tableau de board</string>
+    <string name="nav_home">Ajouter nouveau adherent</string>
+    <string name="nav_photos">Liste des adherents</string>
+    <string name="nav_movies">Ajouter nouveau groupe</string>
+    <string name="nav_notifications">Liste des groupes</string>
+    <string name="nav_settings">Parametres</string>
+    <string name="nav_about_us">A propos</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Tableau de board</item>
+        <item>Ajouter nouveau adherent</item>
+        <item>Liste des adherents</item>
+        <item>Ajouter nouveau groupe</item>
+        <item>Liste des groupes</item>
+        </string-array>
+
+    <string name="activity_title_about_us">Parametres</string>
+    <string name="activity_title_privacy_policy">A propos</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Adresse email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="err_msg_name">Entrer le prenom</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="introText">Etoile du Nord</string>
+    <string name="introSubText">Karate Kyokushinkay</string>
+    <string name="introSubTextcompany">Hi-TecArt 2017</string>
+    <string name="hint_lastname">Nom</string>
+    <string name="hint_prenom">Prenom</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_phone">Numero Telephone</string>
+    <string name="hint_address">Adresse</string>
+    <string name="hint_profdission">profission</string>
+    <string name="hint_profeission">Profession</string>
+    <string name="hint_grade">Grade</string>
+    <string name="hint_date_inscit">Date d\'inscription</string>
+    <string name="hint_groupename">Nom du groupe</string>
+    <string name="btn_add_groupe_name">Enregistrer</string>
+    <string name="btn_add_new">enregistrer</string>
+    <string name="err_msg_profession">Entrer une profession</string>
+    <string name="err_msg_dateincrit">entrer la date d\'inscription</string>
+    <string name="err_msg_grade">Entrer la grade</string>
+    <string name="err_msg_phone">Entrer le numero de telephone</string>
+    <string name="err_msg_address">Entrer l\'adresse</string>
+    <string name="err_msg_age">Entrer l\'age</string>
+    <string name="err_msg_lastname">Entrer le nom</string>
+    <string name="introtext">نجم الشمال</string>
+    <string name="update">modifier</string>
+    <string name="action_delete">Supprimer</string>
+
+</resources>
